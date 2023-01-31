@@ -11,7 +11,7 @@
     <groupId>com.huawei</groupId>
     <artifactId>ManagersyStem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ManagersyStem</name>
+    <name>ManageSystem</name>
     <description>ManagersyStem</description>
     <properties>
         <java.version>1.8</java.version>
